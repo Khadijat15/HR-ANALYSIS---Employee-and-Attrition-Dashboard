@@ -52,7 +52,7 @@ Department & Job Role Insights
  - These roles fall into the lower salary bands, linking job role → salary → attrition.
  - Despite high attrition, production also had the highest number of top performers, indicating a retention problem, not a performance problem.
 
-Predictive Analytics Insights
+ #📊 Predictive Analytics
   Used Key Influencers, Decomposition Tree, and Trend Analysis in Power BI.
 
  Trends Over Time
@@ -70,14 +70,14 @@ Decomposition Tree Findings
  - Production job roles = major drivers of attrition.
  - Salary adjustments could reduce attrition significantly.
 
-📌 Conclusion
+# 📌 Conclusion
  - Attrition is heavily influenced by salary level, job role, and performance issues.
  - Production workers, especially technicians, are at high risk of turnover.
  - Older employees and certain demographics (e.g., divorced employees) show higher exit tendencies.
  - Some high-performing employees leave due to career or personal factors, not salary.
  - Predictive analytics confirms that salary reviews, targeted retention strategies, and improved support systems can help reduce attrition.
 
-✔️ Recommendations
+# ✔️ Recommendations
  Salary & Compensation
  - Review and increase lower salary bands, especially in production roles.
  - Reassess #100,000–#120,000 salary band to ensure competitiveness for mid-career employees.
