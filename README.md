@@ -52,8 +52,8 @@ Department & Job Role Insights
  - These roles fall into the lower salary bands, linking job role → salary → attrition.
  - Despite high attrition, production also had the highest number of top performers, indicating a retention problem, not a performance problem.
 
- #📊 Predictive Analytics
-  Used Key Influencers, Decomposition Tree, and Trend Analysis in Power BI.
+ # 📊 Predictive Analytics
+      Used Key Influencers, Decomposition Tree, and Trend Analysis in Power BI.
 
  Trends Over Time
  - Attrition showed no monthly or seasonal variation.
