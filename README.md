@@ -5,7 +5,7 @@ Developed interactive Power BI dashboards that analyse employee performance and 
 To explored the relationship between performance ratings, salary bands, job roles, demographics, and attrition. Using Power BI (Key Influencers, Decomposition Tree, Trend Analysis), the goal was to identify the underlying drivers of employee exits and provide data-driven recommendations for retention.
 
 
-# 🗃️Data Preparation
+# 🗃️ Data Preparation
 I used power query to clean the data
    - Renaming and formatting in consistent columns.
    - Checking for duplicates.
@@ -98,7 +98,7 @@ Monitor High Performers
  - Provide recognition, career development plans, and leadership pathways.
  - Prevent loss of top performers due to career change or internal movement.
 
-# Files / links
+# 📁 Files / links
  - This file - README.md
  - Power BI dashboard - Employee attrition, performance and predictive analysis file
  - You can also check my article on medium - https://medium.com/@omowunmikhadijat011/behind-the-metrics-predicting-attrition-with-power-bi-0b00a0122a41
