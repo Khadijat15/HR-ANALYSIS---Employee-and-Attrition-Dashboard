@@ -98,4 +98,8 @@ Monitor High Performers
  - Provide recognition, career development plans, and leadership pathways.
  - Prevent loss of top performers due to career change or internal movement.
 
+# Files / links
+ - This file - README.md
+ - Power BI dashboard - Employee attrition, performance and predictive analysis file
+ - You can also check my article on medium - https://medium.com/@omowunmikhadijat011/behind-the-metrics-predicting-attrition-with-power-bi-0b00a0122a41
  
